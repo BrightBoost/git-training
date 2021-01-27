@@ -1,1 +1,6 @@
 2e test
+
+//Extra tekst tijdens training
+Uitbreiding 27e {
+	boolean koffieHalen = true;
+}
